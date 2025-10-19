@@ -4,4 +4,5 @@
 <h1>使用例</h1>
 <video width="640" height="360" controls>
   <source src="video.mov" type="video/quicktime">
+  お使いのブラウザは動画タグに対応していません
 </video>

@@ -2,7 +2,7 @@
 変化する部分の文字はX、Y、Z、Wを使って入力してください
 一秒ごとのチェック数が一定の値以上になると429が出てくる可能性があります。
 <h1>使用例</h1>
-<video width="640" height="360" controls>
-  <source src="example.mov" type="video/quicktime">
-  お使いのブラウザは動画タグに対応していません
-</video>
+  <video width="640" height="360" controls>
+    <source src="example.mp4" type="video/mp4">
+    お使いのブラウザは動画タグに対応していません
+  </video>

@@ -10,4 +10,6 @@ https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle={user
 <h1>使用例</h1>
 <p align="center">
   <img src="example.gif" alt="demo" width="400">
-</p>
+</p> <br>
+<h1>Download</h1>
+https://github.com/qwrfz/bluesky.username.checker/raw/refs/heads/main/bluesky.username.checker-v4.0.sb3

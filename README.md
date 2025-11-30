@@ -4,7 +4,7 @@
 毎秒300回以上チェックすると429が出ます。<br>
 allはアルファベットと数字と"-"、letterはアルファベット、numberは数字です。<br>
 チェックし終わるとtxtファイルとして未作成リストを保存できます。<br>
-<h1>使用したapi</h1>
+<h1>使用したAPI</h1>
 https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle={username}.bsky.social <br>
 ※{username}のところがユーザーネームを入力する部分です。
 <h1>使用例</h1>

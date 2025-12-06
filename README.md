@@ -14,4 +14,4 @@ https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle={user
   <img src="example.gif" alt="demo" width="400">
 </p> <br>
 <h1>Download</h1>
-https://github.com/qwrfz/bluesky.username.checker/raw/refs/heads/main/bluesky.username.checker-v4.0.sb3
+https://github.com/qwrfz/bluesky.username.checker/raw/refs/heads/main/bluesky.username.checker.sb3

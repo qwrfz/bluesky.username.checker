@@ -1,4 +1,4 @@
-<h1>bluesky.username.checker</h1>
+<h1>PrestoChecker</h1>
 ⚠️このチェッカーは自分がturbowarpで作成したものをpackager.turbowarp.orgでhtmlに変換したものです。⚠️<br>
 変化する部分の文字はX、Y、Z、W、A、Bを使って入力してください。<br>
 毎秒300回以上チェックすると429が出ます。<br>
